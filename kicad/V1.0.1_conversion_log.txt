@@ -1,0 +1,41 @@
+#********** START OF renumber-sheet.ulp ULP Version 4.4.4 31-03-2017 :16:53:59 LOG **********#
+#OldRef				SheetNumber	NewRef
+9V				1	9V9
+C1V+				1	C1V+9
+C1V-				1	C1V-9
+C2L				1	C2L9
+C2R				1	C2R9
+JACK-IN				1	JACK-IN9
+JACK-OUT				1	JACK-OUT9
+R3L				1	R3L9
+R3R				1	R3R9
+R4L				1	R4L9
+R4R				1	R4R9
+R5L				1	R5L9
+R5R				1	R5R9
+R6L				1	R6L9
+R6R				1	R6R9
+#********** END OF renumber-sheet.ulp ULP Version 4.4.4 31-03-2017 :16:53:59 LOG **********#
+
+#********** START OF fix_via_hack.ulp ULP Version 4.7.0 31-03-2017 :16:54:01 LOG **********#
+#********** END OF fix_via_hack.ulp ULP Version 4.7.0 31-03-2017 :16:54:01 LOG **********#
+
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 2.0 31-03-2017 :16:54:07 LOG **********#
+Device Name Conflict: Device=GND from internal SCH lib=akafugu with device=GND from LIB=supply2
+Symbol Name Conflict: Symbol=GND from internal SCH lib=akafugu with symbol=GND from LIB=supply2
+Device Name Conflict: Device=GND from internal SCH lib=supply2 with device=GND from LIB=akafugu
+Symbol Name Conflict: Symbol=GND from internal SCH lib=supply2 with symbol=GND from LIB=akafugu
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 2.0 31-03-2017 :16:54:07 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.8 31-03-2017 :16:54:15 LOG **********#
+OK: Eagle library export from SCH/PCB successful
+    Conversion completed with no messages
+#********** END OF exp-lbrs.ulp 6.8 31-03-2017 :16:54:15 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.8 31-03-2017 :16:54:36 LOG **********#
+Missing Prefix Part =''				AUDIO-POTS_ALPS_RK0971221Z0X					V1.0.1		M
+Missing Prefix Part =D				TLE2426_SO-8					V1.0.1		M
+Missing Prefix Part =P				TLE2426_DIP-8					V1.0.1		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.8 31-03-2017 :16:54:36 LOG **********#
+
