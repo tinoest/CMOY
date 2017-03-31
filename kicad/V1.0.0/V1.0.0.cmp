@@ -4,14 +4,14 @@ BeginCmp
 TimeStamp = /58DE7FC5;
 Reference = C1L8;
 ValeurCmp = CAP_POL-RADIAL-6.3MM;
-IdModule  = AKAFUGU_CPOL-RADIAL-6.3MM;
+IdModule  = CPOL-RADIAL-6.3MM;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE808D;
 Reference = C1R8;
 ValeurCmp = CAP_POL-RADIAL-6.3MM;
-IdModule  = AKAFUGU_CPOL-RADIAL-6.3MM;
+IdModule  = CPOL-RADIAL-6.3MM;
 EndCmp
 
 BeginCmp
@@ -39,49 +39,49 @@ BeginCmp
 TimeStamp = /58DE8475;
 Reference = IC1;
 ValeurCmp = OPA2134P;
-IdModule  = AKAFUGU_DIL-8;
+IdModule  = DIL-8;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE85A1;
 Reference = JACK-IN8;
 ValeurCmp = STEREOJACK;
-IdModule  = AKAFUGU_STX3100;
+IdModule  = STX3100;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE8669;
 Reference = JACK-OUT8;
 ValeurCmp = STEREOJACK;
-IdModule  = AKAFUGU_STX3100;
+IdModule  = STX3100;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE88C1;
 Reference = PWR8;
 ValeurCmp = LED-3MM-MINUS;
-IdModule  = AKAFUGU_LED3MM-MINUS;
+IdModule  = LED3MM-MINUS;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE8989;
 Reference = R1;
 ValeurCmp = RESISTOR-PTH-1/6W-OUTLINE;
-IdModule  = AKAFUGU_1_6W-RES-OUTLINE;
+IdModule  = RES-OUTLINE;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE8A51;
 Reference = R2L8;
 ValeurCmp = RESISTOR-PTH-1/6W-OUTLINE;
-IdModule  = AKAFUGU_1_6W-RES-OUTLINE;
+IdModule  = RES-OUTLINE;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE8B19;
 Reference = R2R8;
 ValeurCmp = RESISTOR-PTH-1/6W-OUTLINE;
-IdModule  = AKAFUGU_1_6W-RES-OUTLINE;
+IdModule  = RES-OUTLINE;
 EndCmp
 
 BeginCmp
