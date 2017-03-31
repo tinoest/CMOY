@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /58DE7FC5;
+Reference = C1L8;
+ValeurCmp = CAP_POL-RADIAL-6.3MM;
+IdModule  = AKAFUGU_CPOL-RADIAL-6.3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE808D;
+Reference = C1R8;
+ValeurCmp = CAP_POL-RADIAL-6.3MM;
+IdModule  = AKAFUGU_CPOL-RADIAL-6.3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8155;
+Reference = C2L8;
+ValeurCmp = C5/5;
+IdModule  = CAPACITOR-WIMA_C5B5;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE821D;
+Reference = C2R8;
+ValeurCmp = C5/5;
+IdModule  = CAPACITOR-WIMA_C5B5;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE82E5;
+Reference = G1;
+ValeurCmp = AB9V;
+IdModule  = BATTERY_AB9V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8475;
+Reference = IC1;
+ValeurCmp = OPA2134P;
+IdModule  = AKAFUGU_DIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE85A1;
+Reference = JACK-IN8;
+ValeurCmp = STEREOJACK;
+IdModule  = AKAFUGU_STX3100;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8669;
+Reference = JACK-OUT8;
+ValeurCmp = STEREOJACK;
+IdModule  = AKAFUGU_STX3100;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE88C1;
+Reference = PWR8;
+ValeurCmp = LED-3MM-MINUS;
+IdModule  = AKAFUGU_LED3MM-MINUS;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8989;
+Reference = R1;
+ValeurCmp = RESISTOR-PTH-1/6W-OUTLINE;
+IdModule  = AKAFUGU_1_6W-RES-OUTLINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8A51;
+Reference = R2L8;
+ValeurCmp = RESISTOR-PTH-1/6W-OUTLINE;
+IdModule  = AKAFUGU_1_6W-RES-OUTLINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8B19;
+Reference = R2R8;
+ValeurCmp = RESISTOR-PTH-1/6W-OUTLINE;
+IdModule  = AKAFUGU_1_6W-RES-OUTLINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8BE1;
+Reference = R3L8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8CA9;
+Reference = R3R8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8D71;
+Reference = R4L8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8E39;
+Reference = R4R8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8F01;
+Reference = R5L8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE8FC9;
+Reference = R5R8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE9091;
+Reference = R6L8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE9159;
+Reference = R6R8;
+ValeurCmp = R-EU_0207/2V;
+IdModule  = RESISTOR_0207_2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DE94DD;
+Reference = U$1;
+ValeurCmp = ALPS_RK0971221Z05;
+IdModule  = AUDIO-POTS_ALPS_RK0971221Z0X;
+EndCmp
+
+EndListe
