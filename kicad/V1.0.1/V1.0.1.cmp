@@ -53,21 +53,21 @@ BeginCmp
 TimeStamp = /58DE824B;
 Reference = IC1;
 ValeurCmp = OPA2134P;
-IdModule  = AKAFUGU_DIL-8;
+IdModule  = DIL-8;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE8377;
 Reference = JACK-IN9;
 ValeurCmp = STEREOJACK;
-IdModule  = AKAFUGU_STX3100;
+IdModule  = STX3100;
 EndCmp
 
 BeginCmp
 TimeStamp = /58DE843F;
 Reference = JACK-OUT9;
 ValeurCmp = STEREOJACK;
-IdModule  = AKAFUGU_STX3100;
+IdModule  = STX3100;
 EndCmp
 
 BeginCmp
